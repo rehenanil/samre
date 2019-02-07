@@ -1,2 +1,2 @@
 subjects=["chemisty","physics",123]
-print (subjects)
+print (subjects[0])
