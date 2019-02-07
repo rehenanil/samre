@@ -1,4 +1,5 @@
 a=12
 b=14
-c=a+b
-print(c)
+c=85
+c1=a+b+c
+print(c1)
