@@ -1,7 +1,5 @@
-def Add(a,b):
-    c=a+b
-    return(c)
+import add
 a=int(input("enter a number"))
 b=int(input("enter a number"))
-c=Add(a,b)
+c=add.Add(a,b)
 print(c)
