@@ -1,5 +1,5 @@
-import add
+import sub
 a=int(input("enter a number"))
 b=int(input("enter a number"))
-c=add.Add(a,b)
+c=sub.Sub(a,b)
 print(c)
